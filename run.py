@@ -67,8 +67,7 @@ def telemetry(sid, data):
             
         image = np.asarray(image)
         image_test = np.asarray(image)
-        #image1 = np.asarray(image1)
-        #image_test1 = np.asarray(image1)
+        image_test = cv2.cvtColor(image_test, cv2.COLOR_BGR2RGB)
        
 
 
