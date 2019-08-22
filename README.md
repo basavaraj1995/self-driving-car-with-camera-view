@@ -12,7 +12,7 @@ Engage self driving without `using model.h5 file`
 
 4.liks for the simulator(Mac builds)
 
-https://drive.google.com/open?id=13JfjKLls1utA56eGp75U3Xm6QuzAG445
+[this] https://drive.google.com/open?id=13JfjKLls1utA56eGp75U3Xm6QuzAG445
 
 
 ##**Debugging**
