@@ -1,5 +1,4 @@
-# self-driving-car-with-camera-view
-##I tweaked self driving car simulator of udacity using unity and python.
+# self-driving-car-with-camera-view I tweaked self driving car simulator of udacity using unity and python.
 Engage self driving without using model.h5 file
 
 
@@ -7,7 +6,7 @@ Engage self driving without using model.h5 file
 
 2.just run run.py python scripts.
 
-3.You can run in fully autonomous mode with   >>> python drive.py model.h5.
+3.You can run in fully autonomous mode with   >>> **python drive.py model.h5.**
 
 4.liks for the simulator(Mac builds)
 
