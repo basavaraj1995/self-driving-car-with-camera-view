@@ -16,3 +16,5 @@ https://drive.google.com/open?id=13JfjKLls1utA56eGp75U3Xm6QuzAG445
 
 
 ##**Debugging**
+1. Requires keras version 2.2.2
+  `pip install keras=2.2.2`
